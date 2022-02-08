@@ -264,7 +264,6 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | 😆
 1b | Link to `commit #1 from Github.com` | [Commit](https://github.com/jokane516/learn-git-milestones/commit/65faf53f17540d2d5444cddb8801640b2adff5e7)
 1c | Link to markdown tables docs | [Link](https://user-images.githubusercontent.com/46696159/153045294-54d117c8-2c39-48a8-ad0d-5837d7caa4ff.png)
-
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
