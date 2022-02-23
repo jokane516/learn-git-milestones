@@ -268,8 +268,8 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 🧐
 2b | Link to `commit #2 from Github Desktop` | [Commit](https://github.com/jokane516/learn-git-milestones/commit/59619d0166a80c51379cb5fbce97ce22e572b58d)
 2c | Full path to your working directory | /Users/joekane/Documents/GitHub/learn-git-milestones
-2d | Link to `commit #3 from CLI` | 
-2e | 3rd Favorite emoji |
+2d | Link to `commit #3 from CLI` | [Commit]()
+2e | 3rd Favorite emoji | 🦈
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
