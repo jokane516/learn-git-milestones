@@ -271,7 +271,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [Commit](https://github.com/jokane516/learn-git-milestones/commit/378f40fe8c6ba5f61db57680df56b97085098f89)
 2e | 3rd Favorite emoji | 🦈
 2f | Link to `commit #4 from Atom` | [Link](https://github.com/jokane516/learn-git-milestones/commit/212345b32053644012f1fb2e40800840212ea522)
-3a | Link to `my-awesome-project` github.com repo page | [Link] (https://github.com/jokane516/my-awesome-project)
+3a | Link to `my-awesome-project` github.com repo page | [Link](https://github.com/jokane516/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" | [Link](https://jokane516.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
